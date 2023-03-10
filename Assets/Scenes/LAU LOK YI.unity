@@ -467,7 +467,7 @@ PrefabInstance:
     - target: {fileID: 6788538757290762322, guid: ad4137f595ec8e2449cacca9df7d3735,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.12770796
+      value: 0.15
       objectReference: {fileID: 0}
     - target: {fileID: 6788538757290762322, guid: ad4137f595ec8e2449cacca9df7d3735,
         type: 3}
@@ -552,7 +552,7 @@ MonoBehaviour:
   target: {fileID: 1549595320}
   speed: 10
   stopDistance: 2
-  animatorSpeedName: 
+  animatorSpeedName: Speed
 --- !u!1 &94059569
 GameObject:
   m_ObjectHideFlags: 0
