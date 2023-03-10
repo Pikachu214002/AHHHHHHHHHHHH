@@ -1,5 +1,10 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/UnityTechnologies/ParticlePack/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
 guid: 1b8d251f9af63b746bf2f7ffe00ebb9b
+========
+guid: b3a0d2774e35c4bce9031a26cee6ea1b
+folderAsset: yes
+>>>>>>>> 447a1784c08385e69594203837c885ac8ca11bd3:Assets/Course Library.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
